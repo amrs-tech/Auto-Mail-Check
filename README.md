@@ -12,4 +12,4 @@ PreRequisites are:
   * Geckodriver (in case of Firefox)
   * Respective WebBrowser
 
-![Screenshot](/Auto-Mail-Check/seleniumOP.jpg)
+![Screenshot](/seleniumOP.jpg)

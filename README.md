@@ -13,10 +13,10 @@ PreRequisites are:
   * Respective WebBrowser with matching version
 
 ## Screenshot - 1
-![Screenshot](/output1.jpg)
+![Screenshot](/output1.png)
 
 ## Screenshot - 2
-![Screenshot](/output2.jpg)
+![Screenshot](/output2.png)
 
 ## Screenshot - 3
-![Screenshot](/output3.jpg)
+![Screenshot](/output3.png)

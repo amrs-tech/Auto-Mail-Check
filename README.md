@@ -12,4 +12,11 @@ PreRequisites are:
   * Geckodriver (in case of Firefox)
   * Respective WebBrowser with matching version
 
-![Screenshot](/seleniumOP.jpg)
+## Screenshot - 1
+![Screenshot](/output1.jpg)
+
+## Screenshot - 2
+![Screenshot](/output2.jpg)
+
+## Screenshot - 3
+![Screenshot](/output3.jpg)
